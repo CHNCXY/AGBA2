@@ -1,0 +1,16 @@
+                  precision    recall  f1-score   support
+
+  Abstandshalter      0.963     0.963     0.963        27
+   Auslassventil      0.923     0.800     0.857        30
+     Blechlineal      0.727     0.593     0.653        27
+ Filterkartusche      0.964     1.000     0.982        27
+   Gewindestange      0.800     0.800     0.800        35
+    Hohlschraube      0.667     0.643     0.655        28
+       Hutmutter      0.759     0.667     0.710        33
+Hydraulikstutzen      0.667     0.690     0.678        29
+      Nutenstein      0.588     0.541     0.563        37
+  Schraubenfeder      0.630     0.872     0.731        39
+
+        accuracy                          0.753       312
+       macro avg      0.769     0.757     0.759       312
+    weighted avg      0.759     0.753     0.752       312
